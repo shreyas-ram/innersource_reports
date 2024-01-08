@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "name": "skills-introduction-to-github",
+        "org": "shreyas-ram",
+        "description": "Test repo",
+        "stars": 0,
+        "forked": 0,
+        "issues": 2,
+        "compatible": false,
+        "languages": {},
+        "status": {
+            "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed sections.",
+            "modular_health": 12,
+            "group_health": 0
+        },
+        "url": "https://github.com/shreyas-ram/skills-introduction-to-github",
+        "private": false
+    }
+]
