@@ -1,10 +1,10 @@
 {
     "meta": {
-        "report_date": "Mon Jan 08 2024 12:04:47 GMT+0000 (Greenwich Mean Time)",
+        "report_date": "Mon Jan 08 2024 12:22:02 GMT+0000 (Greenwich Mean Time)",
         "fork": false,
         "forks": 0,
         "stargazers_count": 0,
-        "open_issues_count": 4,
+        "open_issues_count": 2,
         "repo": "skills-introduction-to-github",
         "owner": {
             "login": "shreyas-ram",
@@ -31,16 +31,10 @@
         "languages": {}
     },
     "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/comply`\n\n",
-    "license": {
-        "name": "MIT License",
-        "key": "mit",
-        "spdx_id": "MIT",
-        "compliant": true
-    },
     "files": [
         {
-            "name": "CODE_OF_CONDUCT.md",
-            "compliant": false
+            "name": "README.md",
+            "compliant": true
         },
         {
             "name": "CODEOWNERS",
@@ -49,22 +43,6 @@
         {
             "name": "CONTRIBUTING.md",
             "compliant": true
-        },
-        {
-            "name": "README.md",
-            "compliant": true
-        },
-        {
-            "name": "CITATION.md",
-            "compliant": false
-        },
-        {
-            "name": "SUPPORT.md",
-            "compliant": false
-        },
-        {
-            "name": "SECURITY.md",
-            "compliant": false
         }
     ],
     "branch_protection": [
@@ -150,7 +128,7 @@
     "dependabot_alert_check": [],
     "status": {
         "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed sections.",
-        "modular_health": 14,
-        "group_health": 25
+        "modular_health": 12,
+        "group_health": 0
     }
 }
