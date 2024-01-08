@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "report_date": "Mon Jan 08 2024 12:04:47 GMT+0000 (Greenwich Mean Time)",
+        "fork": false,
+        "forks": 0,
+        "stargazers_count": 0,
+        "open_issues_count": 4,
+        "repo": "skills-introduction-to-github",
+        "owner": {
+            "login": "shreyas-ram",
+            "id": 6203134,
+            "node_id": "MDQ6VXNlcjYyMDMxMzQ=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/6203134?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/shreyas-ram",
+            "html_url": "https://github.com/shreyas-ram",
+            "followers_url": "https://api.github.com/users/shreyas-ram/followers",
+            "following_url": "https://api.github.com/users/shreyas-ram/following{/other_user}",
+            "gists_url": "https://api.github.com/users/shreyas-ram/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/shreyas-ram/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/shreyas-ram/subscriptions",
+            "organizations_url": "https://api.github.com/users/shreyas-ram/orgs",
+            "repos_url": "https://api.github.com/users/shreyas-ram/repos",
+            "events_url": "https://api.github.com/users/shreyas-ram/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/shreyas-ram/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "full_name": "shreyas-ram/skills-introduction-to-github",
+        "clone_url": "https://github.com/shreyas-ram/skills-introduction-to-github.git",
+        "languages": {}
+    },
+    "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/comply`\n\n",
+    "license": {
+        "name": "MIT License",
+        "key": "mit",
+        "spdx_id": "MIT",
+        "compliant": true
+    },
+    "files": [
+        {
+            "name": "CODE_OF_CONDUCT.md",
+            "compliant": false
+        },
+        {
+            "name": "CODEOWNERS",
+            "compliant": false
+        },
+        {
+            "name": "CONTRIBUTING.md",
+            "compliant": true
+        },
+        {
+            "name": "README.md",
+            "compliant": true
+        },
+        {
+            "name": "CITATION.md",
+            "compliant": false
+        },
+        {
+            "name": "SUPPORT.md",
+            "compliant": false
+        },
+        {
+            "name": "SECURITY.md",
+            "compliant": false
+        }
+    ],
+    "branch_protection": [
+        {
+            "name": "allowsDeletions",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "allowsForcePushes",
+            "value": false,
+            "expected": false,
+            "compliant": false
+        },
+        {
+            "name": "isAdminEnforced",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresApprovingReviews",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiredApprovingReviewCount",
+            "value": false,
+            "expected": 2,
+            "compliant": false
+        },
+        {
+            "name": "requiresCodeOwnerReviews",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresCommitSignatures",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresConversationResolution",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresLinearHistory",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresStatusChecks",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresStrictStatusChecks",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "restrictsPushes",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "restrictsReviewDismissals",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        }
+    ],
+    "dependabot_alert_check": [],
+    "status": {
+        "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed sections.",
+        "modular_health": 14,
+        "group_health": 25
+    }
+}
