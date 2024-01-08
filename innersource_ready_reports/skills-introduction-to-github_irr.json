@@ -1,10 +1,10 @@
 {
     "meta": {
-        "report_date": "Mon Jan 08 2024 12:22:02 GMT+0000 (Greenwich Mean Time)",
+        "report_date": "Mon Jan 08 2024 12:23:56 GMT+0000 (Greenwich Mean Time)",
         "fork": false,
         "forks": 0,
         "stargazers_count": 0,
-        "open_issues_count": 2,
+        "open_issues_count": 3,
         "repo": "skills-introduction-to-github",
         "owner": {
             "login": "shreyas-ram",
@@ -28,7 +28,8 @@
         },
         "full_name": "shreyas-ram/skills-introduction-to-github",
         "clone_url": "https://github.com/shreyas-ram/skills-introduction-to-github.git",
-        "languages": {}
+        "languages": {},
+        "private": false
     },
     "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/comply`\n\n",
     "files": [
